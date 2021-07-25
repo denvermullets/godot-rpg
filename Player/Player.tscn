@@ -8,17 +8,14 @@ radius = 4.0
 height = 4.0
 
 [node name="Player" type="KinematicBody2D"]
-position = Vector2( 42.914, 16.6499 )
 script = ExtResource( 1 )
-__meta__ = {
-"_edit_group_": true
-}
 
 [node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 0, -8.8314 )
 texture = ExtResource( 2 )
 hframes = 60
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( 0.0860023, 8.35009 )
+position = Vector2( 0.0860023, -0.481308 )
 rotation = 1.5708
 shape = SubResource( 1 )
