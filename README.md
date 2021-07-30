@@ -6,4 +6,4 @@ This is just a tutorial from HeartBeast on YouTube to get familiar with some God
 
 Just clone down the repo, open in Godot and hit Play!
 
-WASD / J / SPACE
+WASD / J - Attack, K - Roll
